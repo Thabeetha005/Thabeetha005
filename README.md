@@ -123,21 +123,19 @@ engineer:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thabeetha005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F472B6&text_color=E2E8F0" width="100%" alt="Thabeetha's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Thabeetha005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/Thabeetha005">
+      <img src="https://github-stats-extended.vercel.app/api?username=Thabeetha005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F472B6&text_color=E2E8F0" alt="Thabeetha's GitHub Stats" />
+    </a>
+    <a href="https://github.com/Thabeetha005">
+      <img src="https://streak-stats.demolab.com/?user=Thabeetha005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Thabeetha005">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+    </a>
+  </p>
 </div>
 
 ---
