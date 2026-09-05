@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+
+    <!-- Text & Glow Gradients -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#F472B6" />
+    </linearGradient>
+
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94A3B8" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0.7" />
+    </linearGradient>
+
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.6" />
+    </pattern>
+
+    <!-- Glowing Orbs -->
+    <radialGradient id="glow1" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="80%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #38BDF8;
+    }
+    .main-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 54px;
+      font-weight: 800;
+      letter-spacing: -1px;
+      fill: url(#titleGrad);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      letter-spacing: 0.5px;
+      fill: url(#subGrad);
+    }
+    .tag-pill {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #A5B4FC;
+    }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Ambient Glow Effects -->
+  <rect width="1200" height="320" rx="16" fill="url(#glow1)" />
+  <rect width="1200" height="320" rx="16" fill="url(#glow2)" />
+
+  <!-- Tech Grid Overlay -->
+  <rect width="1200" height="320" rx="16" fill="url(#grid)" />
+
+  <!-- Glowing Border Outline -->
+  <rect width="1198" height="318" x="1" y="1" rx="15" fill="none" stroke="#334155" stroke-width="1.2" stroke-opacity="0.6" />
+
+  <!-- Top Badge Pill -->
+  <g transform="translate(60, 48)">
+    <rect width="365" height="30" rx="15" fill="url(#pillGrad)" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="16" cy="15" r="4" fill="#38BDF8" />
+    <text x="30" y="20" class="badge-text">FULL-STACK &amp; SYSTEMS ARCHITECT</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="60" y="145" class="main-title">Thabeethal Asnath I</text>
+
+  <!-- Tagline / Subtitle -->
+  <text x="60" y="188" class="subtitle">Building scalable microservices, fintech engines &amp; cloud-ready platforms</text>
+
+  <!-- Skill Pill Tags -->
+  <g transform="translate(60, 222)">
+    <!-- Pill 1 -->
+    <rect width="170" height="30" rx="8" fill="#1E293B" stroke="#475569" stroke-width="0.8" />
+    <text x="85" y="20" text-anchor="middle" class="tag-pill">⚡ Spring Boot &amp; Java</text>
+
+    <!-- Pill 2 -->
+    <rect x="182" width="180" height="30" rx="8" fill="#1E293B" stroke="#475569" stroke-width="0.8" />
+    <text x="272" y="20" text-anchor="middle" class="tag-pill">🚀 NestJS &amp; TypeScript</text>
+
+    <!-- Pill 3 -->
+    <rect x="374" width="165" height="30" rx="8" fill="#1E293B" stroke="#475569" stroke-width="0.8" />
+    <text x="456" y="20" text-anchor="middle" class="tag-pill">⚛️ React &amp; Next.js</text>
+
+    <!-- Pill 4 -->
+    <rect x="551" width="175" height="30" rx="8" fill="#1E293B" stroke="#475569" stroke-width="0.8" />
+    <text x="638" y="20" text-anchor="middle" class="tag-pill">🛡️ Explainable AI (XAI)</text>
+  </g>
+
+  <!-- Modern Wave Curve Bottom Trim -->
+  <path d="M 0 320 Q 300 280 600 305 T 1200 295 L 1200 320 Z" fill="url(#waveGrad)" />
+</svg>

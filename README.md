@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Thabeethal%20Asnath%20👋&fontSize=40&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20Fintech%20%26%20Cloud-Native%20Systems&descAlignY=58&descAlign=50&theme=tokyonight" width="100%" alt="Header Banner" />
+  <!-- Header Banner -->
+  <img src="./banner.svg" width="100%" alt="Thabeethal Asnath - Header Banner" />
+
+  <br /><br />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/Thabeetha005">
@@ -160,5 +162,5 @@ engineer:
 
 <div align="center">
   <!-- Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./footer.svg" width="100%" alt="Footer Banner" />
 </div>
