@@ -11,15 +11,13 @@
 <table>
 <tr>
 <td width="65%">
-
-- 💻 Full Stack Developer passionate about building modern web apps.
-- 🌱 Currently learning System Design, Cloud & DevOps.
-- 🚀 Building AI-powered projects and contributing to Open Source.
-- 🎯 Goal: create products that solve real-world problems.
-- 🌌 Passionate about AI, astronomy, art, painting, and building things that matter.
-- ✨ Always chasing the next idea worth building.
-- 📍 Algeria, Boumerdès
-
+- 💻 Software Developer focused on building **real-world, end-to-end applications**.
+- ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.
+- ⚛️ Building user-friendly interfaces with **React, JavaScript, HTML & CSS**.
+- 🧩 Strong foundation in **OOP, DBMS, Data Structures & REST API development**.
+- 🛠️ Experienced with **Git, GitHub, Postman & AI-assisted development tools**.
+- 🌱 Currently strengthening my skills in **System Design, Cloud & DevOps**.
+- 🎯 Interested in creating **practical software that solves real-world problems**.
 </td>
 <td width="35%" align="center">
 <img src="https://via.placeholder.com/280x300/2A1810/D2B48C?text=Add+Your+Photo" width="240"/>
