@@ -11,13 +11,13 @@
 <table>
 <tr>
 <td width="65%">
-- 💻 Software Developer focused on building **real-world, end-to-end applications**.
-- ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.
-- ⚛️ Building user-friendly interfaces with **React, JavaScript, HTML & CSS**.
-- 🧩 Strong foundation in **OOP, DBMS, Data Structures & REST API development**.
-- 🛠️ Experienced with **Git, GitHub, Postman & AI-assisted development tools**.
-- 🌱 Currently strengthening my skills in **System Design, Cloud & DevOps**.
-- 🎯 Interested in creating **practical software that solves real-world problems**.
+- 💻 Software Developer focused on building **real-world, end-to-end applications**.<br>
+- ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.<br>
+- ⚛️ Building user-friendly interfaces with **React, JavaScript, HTML & CSS**.<br>
+- 🧩 Strong foundation in **OOP, DBMS, Data Structures & REST API development**.<br>
+- 🛠️ Experienced with **Git, GitHub, Postman & AI-assisted development tools**.<br>
+- 🌱 Currently strengthening my skills in **System Design, Cloud & DevOps**.<br>
+- 🎯 Interested in creating **practical software that solves real-world problems**.<br>
 </td>
 <td width="35%" align="center">
 <img src="https://via.placeholder.com/280x300/2A1810/D2B48C?text=Add+Your+Photo" width="240"/>
