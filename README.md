@@ -1,9 +1,9 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=soft&color=0:2A1810,50:6F4E37,100:D2691E&height=200&section=header&text=Houria%20Hs&fontSize=42&fontColor=F5DEB3&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer&descAlignY=58&descSize=18)
+![Header Banner](./banner.png)
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Houria-hs?style=flat-square&logo=github&label=FOLLOWERS&labelColor=1E1310&color=D2691E" />
-  <img src="https://img.shields.io/github/stars/Houria-hs?style=flat-square&logo=github&label=STARS&labelColor=1E1310&color=D2691E" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=flat-square&label=PROFILE+VIEWS&color=D2691E&labelColor=1E1310" />
+  <img src="https://img.shields.io/github/followers/Thabeetha005?style=flat-square&logo=github&label=FOLLOWERS&labelColor=1E1310&color=D2691E" />
+  <img src="https://img.shields.io/github/stars/Thabeetha005?style=flat-square&logo=github&label=STARS&labelColor=1E1310&color=D2691E" />
+  <img src="https://komarev.com/ghpvc/?username=Thabeetha005&style=flat-square&label=PROFILE+VIEWS&color=D2691E&labelColor=1E1310" />
 </p>
 
 ## 👩‍💻 About Me
@@ -36,22 +36,22 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=1E1310&ring=D2691E&fire=D2691E&currStreakLabel=D2B48C&sideLabels=D2B48C&dates=A67B5B" />
+  <img src="https://streak-stats.demolab.com?user=Thabeetha005&hide_border=true&background=1E1310&ring=D2691E&fire=D2691E&currStreakLabel=D2B48C&sideLabels=D2B48C&dates=A67B5B" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Houria-hs&show_icons=true&hide_border=true&bg_color=1E1310&title_color=D2691E&icon_color=D2691E&text_color=D2B48C" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houria-hs&layout=compact&hide_border=true&bg_color=1E1310&title_color=D2691E&text_color=D2B48C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thabeetha005&show_icons=true&hide_border=true&bg_color=1E1310&title_color=D2691E&icon_color=D2691E&text_color=D2B48C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&hide_border=true&bg_color=1E1310&title_color=D2691E&text_color=D2B48C" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=1E1310&color=D2B48C&line=D2691E&point=FF9B54&area=true&area_color=6F4E37&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thabeetha005&bg_color=1E1310&color=D2B48C&line=D2691E&point=FF9B54&area=true&area_color=6F4E37&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Thabeetha005/Thabeetha005/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🌐 Let's Connect
@@ -62,7 +62,7 @@
   <a href="https://instagram.com/hourycodes"><img src="https://img.shields.io/badge/Instagram-6F4E37?style=for-the-badge&logo=instagram&logoColor=F5DEB3" /></a>
   <a href="https://www.tiktok.com/@hourycodes"><img src="https://img.shields.io/badge/TikTok-6F4E37?style=for-the-badge&logo=tiktok&logoColor=F5DEB3" /></a>
   <a href="https://www.youtube.com/@hourycodes"><img src="https://img.shields.io/badge/YouTube-6F4E37?style=for-the-badge&logo=youtube&logoColor=F5DEB3" /></a>
-  <a href="mailto:houriahasbell@gmail.com"><img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
+  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
 </p>
 
 <p align="center">See you in the next commit ☕</p>
