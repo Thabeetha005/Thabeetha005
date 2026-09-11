@@ -1,12 +1,11 @@
 ![Header Banner](./banner.png)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Thabeetha005?style=flat-square&logo=github&label=FOLLOWERS&labelColor=1E1310&color=D2691E" />
-  <img src="https://img.shields.io/github/stars/Thabeetha005?style=flat-square&logo=github&label=STARS&labelColor=1E1310&color=D2691E" />
-  <img src="https://komarev.com/ghpvc/?username=Thabeetha005&style=flat-square&label=PROFILE+VIEWS&color=D2691E&labelColor=1E1310" />
-</p>
+<h1 align="center">Hey there, I'm Thabeethal</h1>
+<h3 align="center"><span style="color:#C86D51;">Software Developer</span></h3>
 
-## 👩‍💻 About Me
+---
+
+<h3 align="center">👩‍💻 About Me</h3>
 
 <table>
 <tr>
@@ -26,13 +25,17 @@
 </tr>
 </table>
 
-## 💻 Tech Stack
+---
+
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,tailwind,vite,js,html,css,docker,postman,git,github,vscode,linux&perline=9" />
 </p>
 
-## 🚀 Featured Projects
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
 
 ### 💰 [Kalpanaaa Finance – Digital Wealth & Financial Advisory Platform](https://github.com/Thabeetha005/Finance_Management_System)
 > **Stack:** `Java 21` • `Spring Boot 3.2.5` • `React 18` • `Tailwind CSS 3.4` • `MySQL 8.0` • `Docker` • `Railway`
@@ -54,33 +57,35 @@
 - Production-ready event lifecycle, attendee registration, and ticketing backend.
 - Race-condition-safe atomic seat decrements, ticket code generation, venue check-in verification workflows, and Dockerized deployment.
 
-## 📈 GitHub Analytics
+---
+
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thabeetha005&hide_border=true&background=1E1310&ring=D2691E&fire=D2691E&currStreakLabel=D2B48C&sideLabels=D2B48C&dates=A67B5B" />
+  <img src="https://streak-stats.demolab.com?user=Thabeetha005&hide_border=true&background=2B2320&ring=C86D51&fire=DE9B61&currStreakLabel=F5F0E6&sideLabels=F6C4A6&dates=8E9CA8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thabeetha005&show_icons=true&hide_border=true&bg_color=1E1310&title_color=D2691E&icon_color=D2691E&text_color=D2B48C" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&hide_border=true&bg_color=1E1310&title_color=D2691E&text_color=D2B48C" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thabeetha005&show_icons=true&hide_border=true&bg_color=2B2320&title_color=C86D51&icon_color=DE9B61&text_color=F5F0E6" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&hide_border=true&bg_color=2B2320&title_color=C86D51&text_color=F5F0E6" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thabeetha005&bg_color=1E1310&color=D2B48C&line=D2691E&point=FF9B54&area=true&area_color=6F4E37&hide_border=true" />
-</p>
+---
 
-## 🐍 Contribution Graph
+<h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thabeetha005/Thabeetha005/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🌐 Let's Connect
+---
+
+<h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://github.com/Thabeetha005"><img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=F5DEB3" /></a>
-  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
-  <a href="https://linkedin.com/in/thabeethal-asnath"><img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=F5DEB3" /></a>
+  <a href="https://github.com/Thabeetha005"><img src="https://img.shields.io/badge/GitHub-2B2320?style=for-the-badge&logo=github&logoColor=F5F0E6" /></a>
+  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-C86D51?style=for-the-badge&logo=gmail&logoColor=F5F0E6" /></a>
+  <a href="https://linkedin.com/in/thabeethal-asnath"><img src="https://img.shields.io/badge/LinkedIn-DE9B61?style=for-the-badge&logo=linkedin&logoColor=2B2320" /></a>
 </p>
 
 <p align="center">See you in the next commit ☕</p>
