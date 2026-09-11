@@ -1,7 +1,12 @@
-![Header Banner](./banner.png)
+![Header Banner](./header-banner.png)
 
 <h1 align="center">Hey there, I'm Thabeethal</h1>
-<h3 align="center"><span style="color:#C86D51;">Software Developer</span></h3>
+
+<p align="center">
+  <a href="https://github.com/Thabeetha005">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=C86D51&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Web+Developer;Java+%26+Spring+Boot+Developer;React+%26+Frontend+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -9,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="68%">
 
 * 💻 Software Developer building real-world, end-to-end applications.
 * ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.
@@ -19,15 +24,15 @@
 * ✨ Always learning, building, and improving.
 
 </td>
-<td width="40%" align="center">
-<img src="./about-me.png" width="260" alt="Illustration" />
+<td width="32%" align="center">
+<img src="./about-me.png" width="200" alt="Illustration" />
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,tailwind,vite,js,html,css,docker,postman,git,github,vscode,linux&perline=9" />
@@ -59,7 +64,7 @@
 
 ---
 
-<h3 align="center">📈 GitHub Analytics</h3>
+<h3 align="center">📈 GitHub Analytics & Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Thabeetha005&hide_border=true&background=2B2320&ring=C86D51&fire=DE9B61&currStreakLabel=F5F0E6&sideLabels=F6C4A6&dates=8E9CA8" />
@@ -84,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/Thabeetha005"><img src="https://img.shields.io/badge/GitHub-2B2320?style=for-the-badge&logo=github&logoColor=F5F0E6" /></a>
-  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-C86D51?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
+  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-C86D51?style=for-the-badge&logo=gmail&logoColor=F5F0E6" /></a>
   <a href="https://linkedin.com/in/thabeethal-asnath"><img src="https://img.shields.io/badge/LinkedIn-DE9B61?style=for-the-badge&logo=linkedin&logoColor=2B2320" /></a>
 </p>
 
