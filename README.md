@@ -64,15 +64,10 @@
 
 ---
 
-<h3 align="center">📈 GitHub Analytics & Streak</h3>
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thabeetha005&hide_border=true&background=2B2320&ring=C86D51&fire=DE9B61&currStreakLabel=F5F0E6&sideLabels=F6C4A6&dates=8E9CA8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thabeetha005&show_icons=true&hide_border=true&bg_color=2B2320&title_color=C86D51&icon_color=DE9B61&text_color=F5F0E6" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thabeetha005&layout=compact&hide_border=true&bg_color=2B2320&title_color=C86D51&text_color=F5F0E6" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Thabeetha005&theme=dark&hide_border=true&background=2B2320&ring=C86D51&fire=DE9B61&currStreakNum=F5F0E6&currStreakLabel=F6C4A6&sideNums=F5F0E6&sideLabels=F6C4A6&dates=8E9CA8" />
 </p>
 
 ---
@@ -80,7 +75,7 @@
 <h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thabeetha005/Thabeetha005/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Thabeetha005/Thabeetha005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
