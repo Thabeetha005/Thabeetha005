@@ -11,16 +11,17 @@
 <table>
 <tr>
 <td width="65%">
+
 * 💻 Software Developer building real-world, end-to-end applications.<br>
-* ☕ Working with Java, Spring Boot, REST APIs & MySQL.<br>
-* ⚛️ Building modern interfaces with React, JavaScript, HTML & CSS.<br>
-* 🧩 Strong in OOP, DBMS, Data Structures & API development.<br>
+* ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.<br>
+* ⚛️ Building modern interfaces with **React, JavaScript, HTML & CSS**.<br>
+* 🧩 Strong in **OOP, DBMS, Data Structures & API development**.<br>
 * 🚀 Exploring AI and building projects that solve real-world problems.<br>
 * ✨ Always learning, building, and improving.<br>
 
 </td>
 <td width="35%" align="center">
-<img src="https://via.placeholder.com/280x300/2A1810/D2B48C?text=Add+Your+Photo" width="240"/>
+<img src="https://github.com/Thabeetha005.png" width="180" style="border-radius: 50%;" alt="Thabeethal Asnath I"/>
 </td>
 </tr>
 </table>
@@ -28,8 +29,30 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,django,graphql,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,tailwind,vite,js,html,css,docker,postman,git,github,vscode,linux&perline=9" />
 </p>
+
+## 🚀 Featured Projects
+
+### 💰 [Kalpanaaa Finance – Digital Wealth & Financial Advisory Platform](https://github.com/Thabeetha005/Finance_Management_System)
+> **Stack:** `Java 21` • `Spring Boot 3.2.5` • `React 18` • `Tailwind CSS 3.4` • `MySQL 8.0` • `Docker` • `Railway`
+- Full-stack digital wealth platform featuring investment portfolio management, automated loan calculators, and financial advisory services.
+- Multi-tier role authorization, RESTful Spring Boot architecture, and containerized deployment with Docker and Railway.
+
+### 🎫 [Order-Aware E-Commerce Helpdesk & Support Ticket System](https://github.com/Thabeetha005/Helpdesk-Support-Ticket-API)
+> **Stack:** `Java` • `Spring Boot` • `React` • `MySQL 8+` • `JWT` • `REST APIs`
+- Enterprise-grade support ticket system integrated with customer order histories (`ORD-XXXXX`).
+- Strict server-side ownership security (validating customer principals against JWT), live SLA status tracking, dynamic priority escalations, and real-time ticket threading.
+
+### 🎓 [Aura – Student Management System](https://github.com/Thabeetha005/student-management-system)
+> **Stack:** `MongoDB` • `Express.js` • `React + Vite` • `Node.js` • `Glassmorphic CSS` • `Docker`
+- MERN stack student management portal decorated with a bespoke dark-mode glassmorphic design system.
+- Attendance enforcement using MongoDB compound indexes, role-based access control (`Admin`, `Teacher`, `Student`), and interactive Swagger/OpenAPI documentation.
+
+### 🎟️ [Event Management REST API](https://github.com/Thabeetha005/event-management)
+> **Stack:** `Node.js` • `Express` • `MongoDB` • `JWT` • `Swagger` • `Docker Compose` • `Render`
+- Production-ready event lifecycle, attendee registration, and ticketing backend.
+- Race-condition-safe atomic seat decrements, ticket code generation, venue check-in verification workflows, and Dockerized deployment.
 
 ## 📈 GitHub Analytics
 
@@ -55,14 +78,11 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/houria-hasbellaoui"><img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=F5DEB3" /></a>
-  <a href="https://twitter.com/HHourr68570"><img src="https://img.shields.io/badge/X-6F4E37?style=for-the-badge&logo=x&logoColor=F5DEB3" /></a>
-  <a href="https://instagram.com/hourycodes"><img src="https://img.shields.io/badge/Instagram-6F4E37?style=for-the-badge&logo=instagram&logoColor=F5DEB3" /></a>
-  <a href="https://www.tiktok.com/@hourycodes"><img src="https://img.shields.io/badge/TikTok-6F4E37?style=for-the-badge&logo=tiktok&logoColor=F5DEB3" /></a>
-  <a href="https://www.youtube.com/@hourycodes"><img src="https://img.shields.io/badge/YouTube-6F4E37?style=for-the-badge&logo=youtube&logoColor=F5DEB3" /></a>
+  <a href="https://github.com/Thabeetha005"><img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=F5DEB3" /></a>
   <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
+  <a href="https://linkedin.com/in/thabeethal-asnath"><img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=F5DEB3" /></a>
 </p>
 
 <p align="center">See you in the next commit ☕</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:D2691E,50:6F4E37,100:2A1810&height=120&section=footer)
+![Footer](./footer.png)
