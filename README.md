@@ -84,10 +84,10 @@
 
 <p align="center">
   <a href="https://github.com/Thabeetha005"><img src="https://img.shields.io/badge/GitHub-2B2320?style=for-the-badge&logo=github&logoColor=F5F0E6" /></a>
-  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-C86D51?style=for-the-badge&logo=gmail&logoColor=F5F0E6" /></a>
+  <a href="mailto:thabeethalasnath@gmail.com"><img src="https://img.shields.io/badge/Email-C86D51?style=for-the-badge&logo=gmail&logoColor=F5DEB3" /></a>
   <a href="https://linkedin.com/in/thabeethal-asnath"><img src="https://img.shields.io/badge/LinkedIn-DE9B61?style=for-the-badge&logo=linkedin&logoColor=2B2320" /></a>
 </p>
 
 <p align="center">See you in the next commit ☕</p>
 
-![Footer](./footer.png)
+<img src="./footer.png" width="100%" alt="Footer Waves" />
