@@ -1,4 +1,4 @@
-![Header Banner](./header-banner.png)
+![Header Banner](./profile-banner.png)
 
 <h1 align="center">Hey there, I'm Thabeethal</h1>
 
@@ -12,9 +12,9 @@
 
 <h3 align="center">👩‍💻 About Me</h3>
 
-<table>
+<table align="center">
 <tr>
-<td width="68%">
+<td width="60%" valign="middle">
 
 * 💻 Software Developer building real-world, end-to-end applications.
 * ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.
@@ -24,8 +24,8 @@
 * ✨ Always learning, building, and improving.
 
 </td>
-<td width="32%" align="center">
-<img src="./about-me.png" width="200" alt="Illustration" />
+<td width="40%" align="center" valign="middle">
+<img src="./about-me.png" width="220" alt="Illustration" />
 </td>
 </tr>
 </table>
