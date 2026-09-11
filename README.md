@@ -10,18 +10,18 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-* 💻 Software Developer building real-world, end-to-end applications.<br>
-* ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.<br>
-* ⚛️ Building modern interfaces with **React, JavaScript, HTML & CSS**.<br>
-* 🧩 Strong in **OOP, DBMS, Data Structures & API development**.<br>
-* 🚀 Exploring AI and building projects that solve real-world problems.<br>
-* ✨ Always learning, building, and improving.<br>
+* 💻 Software Developer building real-world, end-to-end applications.
+* ☕ Working with **Java, Spring Boot, REST APIs & MySQL**.
+* ⚛️ Building modern interfaces with **React, JavaScript, HTML & CSS**.
+* 🧩 Strong in **OOP, DBMS, Data Structures & API development**.
+* 🚀 Exploring AI and building projects that solve real-world problems.
+* ✨ Always learning, building, and improving.
 
 </td>
-<td width="35%" align="center">
-<img src="https://github.com/Thabeetha005.png" width="180" style="border-radius: 50%;" alt="Thabeethal Asnath I"/>
+<td width="40%" align="center">
+<img src="./about-me.png" width="260" alt="Illustration" />
 </td>
 </tr>
 </table>
