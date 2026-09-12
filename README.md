@@ -35,7 +35,7 @@
 <h3 align="center">💻 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,vite,js,html,css,docker,postman,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,vite,js,html,css,docker,postman,git,github,vscode&perline=8" />
 </p>
 
 ---
