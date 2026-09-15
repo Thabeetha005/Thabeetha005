@@ -25,7 +25,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="./about-me.png" width="220" alt="Illustration" />
+<img src="./about-me.png" width="200" alt="Illustration" />
 </td>
 </tr>
 </table>
